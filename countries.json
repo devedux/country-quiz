@@ -1,0 +1,58 @@
+{
+    "questions" : [
+        {
+            "country": "Argentina",
+            "answers": [
+                { "capital": "Buenos Aires", "id": "A", "rpt": true },
+                { "capital": "New Delhi", "id": "B", "rpt": false },
+                { "capital": "Jakarta", "id": "C", "rpt": false },
+                { "capital": "Seoul", "id": "D", "rpt": false }
+            ]
+        },
+        {
+            "country": "Haiti",
+            "answers": [
+                { "capital": "Bissau", "id": "A", "rpt": false },
+                { "capital": "Guatemala City", "id": "B", "rpt": false },
+                { "capital": "Port-au-Prince", "id": "C", "rpt": true },
+                { "capital": "Berlin", "id": "D", "rpt": false }
+            ]
+        },
+        {
+            "country": "Algeria",
+            "answers": [
+                { "capital": "Bissau", "id": "A", "rpt": false },
+                { "capital": "Andorra la Vella", "id": "B", "rpt": false },
+                { "capital": "Tirana", "id": "C", "rpt": false },
+                { "capital": "Algiers", "id": "D", "rpt": true }
+            ]
+        },
+        {
+            "country": "Australia",
+            "answers": [
+                { "capital": "Vienna", "id": "A", "rpt": false },
+                { "capital": "Baku", "id": "B", "rpt": false },
+                { "capital": "Bridgetown", "id": "C", "rpt": false },
+                { "capital": "Canberra", "id": "D", "rpt": true }
+            ]
+        },
+        {
+            "country": "Brazil",
+            "answers": [
+                { "capital": "Illinois", "id": "A", "rpt": false },
+                { "capital": "San jose", "id": "B", "rpt": false },
+                { "capital": "Brasília", "id": "C", "rpt": true },
+                { "capital": "Sau Paulo", "id": "D", "rpt": false }
+            ]
+        },
+        {
+            "country": "Canada",
+            "answers": [
+                { "capital": "Bogotá", "id": "A", "rpt": false },
+                { "capital": "Ottawa", "id": "B", "rpt": true },
+                { "capital": "Beijing", "id": "C", "rpt": false },
+                { "capital": "Bangui", "id": "D", "rpt": false }
+            ]
+        }
+    ] 
+}

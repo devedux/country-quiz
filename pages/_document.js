@@ -46,6 +46,9 @@ class MyDocument extends Document {
         return (
             <Html lang='es' >
                 <Head />
+                <head>
+                <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+                </head>
                 <body>
                     <Main />
                     <NextScript />
